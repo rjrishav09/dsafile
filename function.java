@@ -11,7 +11,7 @@ public class function {
 
 class add {
 public static void main(String[] args) {
-    System.out.println("1y");
+    System.out.println("1");
 }
     
 }
