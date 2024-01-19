@@ -35,7 +35,7 @@ class Solution {
     }
 }
 
-class Solution {
+class Solution1 {
     public int minFallingPathSum(int[][] matrix) {
         int n = matrix.length;
         int m = matrix[0].length;
