@@ -115,7 +115,7 @@ class Solution {
     }
 }
 
-class Solution {
+class Solution1 {
     public int maxLength(List<String> arr) {
         List<Integer> dp = new ArrayList<>();
         dp.add(0);
