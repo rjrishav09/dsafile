@@ -215,7 +215,7 @@ class Solution1 {
     }
 }
 
-class Solution {
+class Solution9 {
     public int kInversePairs(int n, int k) {
         int[][] dp = new int[1001][1001];
         dp[0][0] = 1;
