@@ -237,7 +237,7 @@ class Solution9 {
 
 
 
-class Solution {
+class Solution11 {
     public int numSubmatrixSumTarget(int[][] matrix, int target) {
         int m = matrix.length;
         int n = matrix[0].length;
