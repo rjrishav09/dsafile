@@ -272,11 +272,11 @@ class Solution11 {
 
 
 
-class MyQueue {
+class MyQueue1 {
     private Stack<Integer> s1;
     private Stack<Integer> s2;
 
-    public MyQueue() {
+    public MyQueue1() {
         s1 = new Stack<>();
         s2 = new Stack<>();
     }
