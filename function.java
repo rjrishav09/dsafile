@@ -335,7 +335,7 @@ class Solution14 {
 
 
 
-class Solution {
+class Solution20 {
     public int[] dailyTemperatures(int[] temperatures) {
         Deque<Integer> deque = new ArrayDeque<>();
         
