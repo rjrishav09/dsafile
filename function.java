@@ -364,7 +364,7 @@ class Solution20 {
     }
 }
 
-public class Solution {
+public class Solution30 {
     public int[][] divideArray(int[] nums, int k) {
         Arrays.sort(nums);
         int[][] result = new int[0][0];
