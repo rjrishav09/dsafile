@@ -385,7 +385,7 @@ public class Solution30 {
     }
 }
 
-class Solution {
+class Solution90 {
     public List<Integer> sequentialDigits(int low, int high) {
         List<Integer> a = new ArrayList<>();
 
