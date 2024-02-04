@@ -409,7 +409,7 @@ class Solution90 {
 
 
 
-class Solution31 {
+class Solution3 {
     public int maxSumAfterPartitioning(int[] arr, int k) {
         int N = arr.length;
         int K = k + 1;
