@@ -432,7 +432,7 @@ class Solution17{
 
 
 
-class Solution {
+class Solution110 {
     public int firstUniqChar(String s) {
         HashMap<Character, Integer> mp = new HashMap<>();
 
