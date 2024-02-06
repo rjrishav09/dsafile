@@ -484,7 +484,7 @@ int main()
             show();
             break;
         case 4:
-            exit(0);
+            exit(1);
 
         default:
             printf("\nInvalid choice!!");
