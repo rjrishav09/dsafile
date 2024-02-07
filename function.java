@@ -529,7 +529,7 @@ void show()
     }
     else
     {
-        printf("\nElements present in the stack: \n");
+        printf("\nElements present in the stack:_ \n");
         for (int i = top; i >= 0; --i)
             printf("%d\n", inp_array[i]);
     }
